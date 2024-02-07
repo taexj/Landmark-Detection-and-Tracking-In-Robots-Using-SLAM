@@ -3,3 +3,9 @@ This project is an implementation of SLAM (Simultaneous Localization and Mapping
 ## Example
 Below you can see an example of a 50 x 50 grid world with with landmarks (purple x's) and robot position (a red 'o') lcreated by using only sensor and motion data collected from the robot.
 ![alt text](robot-world.png "Optional Title")
+
+The project consists of three Python notebooks and the implementation of the robot class in robot_class.py.
+
+- Notebook 1: Robot Moving and Sensing
+- Notebook 2: Omega and Xi, Constraints
+- Notebook 3: Landmark Detection and Tracking
